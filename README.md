@@ -30,9 +30,8 @@ install.packages(c(
   "forecast", "randomForest", "prophet", "writexl"
 ))
 ```
-## URL desplegada
-```
+## URL desplegada:
 https://qe7j2m-alex-raul0cruz.shinyapps.io/visualizacion_del_trafico_vehicular_en_peajes/
-```
+
 
 
