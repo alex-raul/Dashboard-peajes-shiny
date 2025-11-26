@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.Rproj
+.RData
+.Ruserdata
+__pycache__/
+.DS_Store
+.csv   
+./rsconnect
+./rsconnect/
+rsconnect/
